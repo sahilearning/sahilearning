@@ -4,8 +4,7 @@ import React from 'react'
  export default function StudentPage  () {
   return (
     <div>
-     <Button variant="default">Button</Button>
-
+     This is Student page
     </div>
   )
 }
